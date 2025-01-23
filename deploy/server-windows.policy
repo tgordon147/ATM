@@ -1,0 +1,3 @@
+grant codeBase "file:C:/Users/TYC/DistributedJavaAtm/src/" {
+    permission java.security.AllPermission;
+};
