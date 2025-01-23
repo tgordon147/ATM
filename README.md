@@ -1,5 +1,6 @@
 # ATM
-Distributed banking system built using Java RMI
+Distributed banking system built using Java RMI.
+
 The Java Remote Method Invocation (Java RMI) is a Java API that performs remote method invocation, the object-oriented equivalent of remote procedure calls (RPC), with support for direct transfer of serialized Java classes and distributed garbage-collection.
 https://tinyurl.com/y939r9h8
 
